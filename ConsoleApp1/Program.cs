@@ -1,3 +1,13 @@
-﻿
+﻿using System;
+using System.Text;
 
-Console.WriteLine("Hello, World!");
+namespace ConsoleApp1
+{
+    internal class Program
+    {
+        public static void Main()
+        {
+            System.Console.WriteLine("Hello World!");
+        }
+    }
+}

@@ -1,4 +1,6 @@
-﻿for (int i = 1; i <= 120; i++)
+﻿// Logic Exercise
+
+for (int i = 1; i <= 120; i++)
 {
     if (i % 3 == 0 && i % 5 == 0)
     {

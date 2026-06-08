@@ -1,0 +1,15 @@
+C:\Users\Iqbal\Documents\Batch 19\OOPFundamentals\bin\Debug\net8.0\OOPFundamentals.exe
+C:\Users\Iqbal\Documents\Batch 19\OOPFundamentals\bin\Debug\net8.0\OOPFundamentals.deps.json
+C:\Users\Iqbal\Documents\Batch 19\OOPFundamentals\bin\Debug\net8.0\OOPFundamentals.runtimeconfig.json
+C:\Users\Iqbal\Documents\Batch 19\OOPFundamentals\bin\Debug\net8.0\OOPFundamentals.dll
+C:\Users\Iqbal\Documents\Batch 19\OOPFundamentals\bin\Debug\net8.0\OOPFundamentals.pdb
+C:\Users\Iqbal\Documents\Batch 19\OOPFundamentals\obj\Debug\net8.0\OOPFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iqbal\Documents\Batch 19\OOPFundamentals\obj\Debug\net8.0\OOPFundamentals.AssemblyInfoInputs.cache
+C:\Users\Iqbal\Documents\Batch 19\OOPFundamentals\obj\Debug\net8.0\OOPFundamentals.AssemblyInfo.cs
+C:\Users\Iqbal\Documents\Batch 19\OOPFundamentals\obj\Debug\net8.0\OOPFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Iqbal\Documents\Batch 19\OOPFundamentals\obj\Debug\net8.0\OOPFundamentals.sourcelink.json
+C:\Users\Iqbal\Documents\Batch 19\OOPFundamentals\obj\Debug\net8.0\OOPFundamentals.dll
+C:\Users\Iqbal\Documents\Batch 19\OOPFundamentals\obj\Debug\net8.0\refint\OOPFundamentals.dll
+C:\Users\Iqbal\Documents\Batch 19\OOPFundamentals\obj\Debug\net8.0\OOPFundamentals.pdb
+C:\Users\Iqbal\Documents\Batch 19\OOPFundamentals\obj\Debug\net8.0\OOPFundamentals.genruntimeconfig.cache
+C:\Users\Iqbal\Documents\Batch 19\OOPFundamentals\obj\Debug\net8.0\ref\OOPFundamentals.dll

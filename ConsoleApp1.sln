@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicExercise", "LogicExercise\LogicExercise.csproj", "{D2F10CDD-2D3D-4275-A888-C745ED9ECB8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPFundamentals", "OOPFundamentals\OOPFundamentals.csproj", "{386D4FF6-332C-44A5-9F63-0020556C5385}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{D2F10CDD-2D3D-4275-A888-C745ED9ECB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2F10CDD-2D3D-4275-A888-C745ED9ECB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2F10CDD-2D3D-4275-A888-C745ED9ECB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386D4FF6-332C-44A5-9F63-0020556C5385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386D4FF6-332C-44A5-9F63-0020556C5385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386D4FF6-332C-44A5-9F63-0020556C5385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386D4FF6-332C-44A5-9F63-0020556C5385}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

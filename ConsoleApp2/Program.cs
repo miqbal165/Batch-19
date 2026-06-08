@@ -1,19 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-for (int i = 1; i < 100; i++)
+﻿namespace ConsoleApp2
 {
-    if (i % 3 == 0)
+
+    internal abstract class Program
     {
-        Console.WriteLine("foo");
-    } else if (i % 5 == 0)
-    {
-        Console.WriteLine("bar");
-    } else if (i % 3 == 0 && i % 5 == 0)
-    {
-        Console.WriteLine("foobar");
-        continue;
-    } else
-    {
-        Console.WriteLine(i);
+        
+        private static void Main()
+        {
+            string fullName = "Muhammad Iqbal";
+            Console.WriteLine($"{fullName.GetType().Name} {nameof(fullName)} = {fullName}");
+            Console.WriteLine("First Line\rSecond Line");
+        }
     }
 }

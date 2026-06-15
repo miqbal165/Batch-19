@@ -24,6 +24,11 @@ for (int i = 1; i <= 150; i++)
         result += "jazz";  
     }
 
+    if (i % 9 == 0)
+    {
+        result += "huzz";
+    }
+
     if (string.IsNullOrWhiteSpace(result))
     {
         result += i;

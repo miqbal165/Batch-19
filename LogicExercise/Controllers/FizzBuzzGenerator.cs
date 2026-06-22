@@ -1,6 +1,6 @@
-namespace LogicExercise;
+namespace LogicExercise.Controllers;
 
-public class FizzBuzzGenerator
+public class FizzBuzzController
 {
     private Dictionary<int, string> _rules = new Dictionary<int, string>();
     public void AddRule(int input, string output)

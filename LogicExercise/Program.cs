@@ -1,10 +1,12 @@
-﻿namespace LogicExercise;
+﻿using LogicExercise.Controllers;
+
+namespace LogicExercise;
 
 internal abstract class Program 
 {
     public static void Main()
     {
-        FizzBuzzGenerator fbg = new FizzBuzzGenerator();
+        FizzBuzzController fbg = new ();
         fbg.AddRule(3, "foo");
         fbg.AddRule(4, "bazz");
         fbg.AddRule(5, "bar");
